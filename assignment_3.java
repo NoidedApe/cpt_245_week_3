@@ -1,11 +1,3 @@
-
-
-// Please give me 5 problems to assign students utilizing the following concepts:
-// 1. Loops
-// 2. Conditionals
-
-
-
 public class assignment_3 {
 
     /**
